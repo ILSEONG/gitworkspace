@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>test2.jsp</h2>
+	<h2>github에서 추가한 내</h2>
 </body>
 </html>
